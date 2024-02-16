@@ -1,5 +1,11 @@
+:root {
+  --accent: #17798e;
+  --text: #363636;
+  --danger: #e57158;
+}
+
 .storybook-page {
-  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 24px;
   padding: 48px 20px;
